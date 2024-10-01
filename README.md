@@ -1,3 +1,7 @@
+PenCraft is an interactive, in-browser code editor built with React, allowing users to write, preview, and experiment with HTML, CSS, and JavaScript code in real-time. The project aims to provide a seamless coding experience for developers by offering an intuitive interface and responsive design, ensuring consistent usage across different devices and screen sizes.
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
